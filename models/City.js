@@ -8,7 +8,8 @@ let schema = new Schema({
     Continent:{type:String,required:true},
     Description:{type:String,required:true},
     Badge:{type:String,required:true},
-    religion:{type:String,required:true}   
+    religion:{type:String,required:true},
+    itinerary: {type:Schema.Types.ObjectId, ref:"itineraries", required:true},  
 },{
     timestamps:true
 })
