@@ -51,7 +51,7 @@ const itineraries =[
       ]
     },
     {
-      publisherPhoto: "https://example.com/photos/user5.jpg",
+      publisherPhoto: "https://giftshopmag.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-1.36.51%E2%80%AFPM-1024x926.png",
       publisherName: "Lara Smith",
       price: 1,
       duration: 2,
